@@ -11,6 +11,21 @@ The report includes four main pages:
 3. Channel & Category Analysis
 4. Target Analysis
 
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Sales Trend Analysis
+![Sales Trend Analysis](screenshots/sales_trend_analysis.png)
+
+### Channel & Category Analysis
+![Channel & Category Analysis](screenshots/channel_category_analysis.png)
+
+### Target Analysis
+![Target Analysis](screenshots/target_analysis.png)
+
 ---
 
 ## Business Problem
